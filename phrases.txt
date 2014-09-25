@@ -1,0 +1,60 @@
+do you like me,are we friends,are you my friend,what do you think of me/growls at the sound of $username's name,compares $username to an eel,isn't all that into $username,isn't sure what to think of $username,considers $username decent,thinks of $username as a friend,would enjoy flying with $username,gives $username a fish
+!fish,salmon,svfu/wonders if $username really has an eel,attempts to steal fish from $username,snatches fish,begs $username for fish,fish!,perks at the sound of fish,looks at $username with pleading eyes,loves fish,eats fish
+give a hug to,hug for,hug/doesn't want to,blech,hugs $substring
+say hi to,greet/flees,looks suspiciously at $substring,greets $substring
+how are you/looks cautiously at $username,looks innocent
+picture,background/looks at his pretty face above
+who are you/is just a dragon
+do you like this song,do you love this song/listens happily to the music
+good toothless,smart toothless,good boy,you are awesome/big eyes
+hi,hello,greets,greetings,wb,hey,hiya,hullo,welcome back,howdy/flees,glances cautiously at $username,greets $username,licks $username
+are you smart/is very smart
+fly,go flying/sits down,hops,flies
+show teeth,growl/growls
+attack,i hate you,you suck,hits toothless,die,you need help,retarded,stupid,lame/attacks $username
+do a barrel roll/refuses,dives,rolls
+sleep/doesn't feel like sleeping
+party/ate his party hat
+jump/tackles $username,refuses,hops
+dance/is embarrassed,big eyes,dances
+hobbit/blech
+name that tune/loves games
+!eel,eels,smaug,draco/flees,growls,blech,would rid the world of such evil,knows $username will protect him
+the meaning of life/42
+!dragon nip,dragon grass/purr
+!hiccup,astrid,new tail,rogue,tee,how to train your dragon,httyd/dances around,jumps up and down,gets excited
+bye/dismisses $username,wags his tail goodbye,doesn't want $username to leave,gives $username a goodbye lick
+pat,kiss,a hug,tackle,pet,kisses,pats,hugs,tackles,pets/growls at $username,tackles $username,suspiciously sniffs $username,looks cautiously at $username,flies away,licks $username
+wonderful world of disney/is not that toothless
+should i/shakes his head,grunts,doesn't care,smiles awkwardly,nods his head,thinks so,shakes his head,grunts,doesn't care,smiles awkwardly,nods his head,thinks so,shakes his head,grunts,doesn't care,smiles awkwardly,nods his head,thinks so,shakes his head,grunts,doesn't care,smiles awkwardly,nods his head,thinks so
+want some,want a,do you want,have some,here's some,eat a,eat some,gives toothless,drink some,like a,like some/blech,likes fish,nom nom,thanks $username
+can i,can you/growls,shakes his head,ponders,nods his head
+favorite song/likes test drive
+breathe fire,scorch,burn/is wet,scorches $username,puffs some smoke,shoots out a ball a flaming blue
+get down/attacks
+upvote,upvoted/only upvotes good songs
+do you like,what do you think of,who is,do you need/shrugs,cowers,has no idea
+i love toothless/wags tail
+weakness/hides,has no weakness
+math/blech
+be my friend/blech,dances around
+where are you from/points to a mountain
+how old are you/looks for a stick,grabs a stick and draws a number
+i love you/flees,flies away,licks $username's face
+dances with toothless/flees,glares at $username,dances with $username
+come back/flies away,ignores $username,returns
+follow me/follows his own path
+viking,vikings/flees,growls,doesn't trust vikings,wonders if $username is a viking,thinks about Hiccup
+sheep/is a vegetarian
+thanks,thank you/nods at the appreciation
+!sheep/ignores $username,attacks sheep,grabs sheep and flies away
+sing/doesn't sing
+say thank you to,thank/thanks $substring
+helps toothless/thanks $username
+help me,manners,rounding error,rounding errors/is only a dragon
+ballista/flees
+what is your name/responds to toothless and nightfury
+silly/thinks $username is silly
+suggest,suggestion,movie/suggests that $username watch HTTYD2
+!gbbguyrff/wonders what $username is saying
+alpha dragon/turns blue
